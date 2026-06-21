@@ -17,10 +17,6 @@ My group worked with **Lembaga Kemajuan Pertanian Kemubu (KADA)**, a Malaysian a
 * **Bootstrap Front-End Drills**: A sequential set of HTML practice files covering Bootstrap grid systems, containers, fixed vs. fluid layouts, padding, borders, typography, colours, and responsive tables — the building blocks reused in every interface built later in the course.
 * **Course Registration System Prototype**: An early PHP + MySQL mini-system modelling student, lecturer, and admin course registration, complete with a normalised database schema and role-specific headers — my first real exposure to multi-role access control.
 
-### 🔹 CRS Mini-Project Iteration
-* **Course Registration Logic**: Refined iterations of the CRS prototype, adding a full course approval workflow, assigned-course management, and Composer-managed dependencies — practice for the larger application patterns later used in the capstone.
-* **Development Progress Gallery**: A timestamped screenshot log documenting iterative UI and feature checkpoints throughout the CRS build.
-
 ### 🏆 Capstone Industry Project: SDT Synapse — Koperasi KADA Automated System
 The centrepiece of the course: a client-commissioned, full-stack system replacing KADA's manual, paper-based membership and loan operations.
 * **Work-Based Learning Report**: Documents the full SDLC executed for the client — client and problem background, proposed solution, JAD-based requirements gathering, the seven-module system architecture, and Alpha/Beta/UAT testing reports.
