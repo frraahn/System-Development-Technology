@@ -24,6 +24,7 @@ The centrepiece of the course: a client-commissioned, full-stack system replacin
 * **Source Code**: Over a thousand PHP files powering the system's seven core modules — Membership Application, Terminate Membership, Review, Loan Application, Approve Application, Statement Report Production (via TCPDF/FPDI), and Financial Tracking — backed by a MySQL database and deployed to a live hosting environment.
 * **User Manual**: A 60-page guide walking applicants, admins, and the cooperative's board (ALK) through every system workflow.
 * **Project Presentation & Declaration**: The final pitch deck and our team's signed declaration of individual module contributions.
+* [Project Repository](https://github.com/frraahn/Koperasi_KADA_Synapse/tree/main)
 
 ---
 
